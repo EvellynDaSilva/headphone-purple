@@ -1,0 +1,11 @@
+.social-media{
+    grid-area: social-media;
+    display: flex;
+    flex-direction: column;
+    font-size: 25px;
+    align-self: end;
+    gap: 26px;
+    color: #ffffff;
+
+    
+}
