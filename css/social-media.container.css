@@ -1,11 +1,8 @@
-.social-media{
-    grid-area: social-media;
+.social-media-container{
     display: flex;
     flex-direction: column;
-    font-size: 25px;
     align-self: flex-end;
-    gap: 26px;
+    gap: 20px;
     color: #ffffff;
-
-    
+    place-items: center;
 }

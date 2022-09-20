@@ -27,7 +27,8 @@ main{
 
 }
 footer{
-    background-color: rgb(230, 28, 28);
     grid-area: footer;
+    display: flex;
+    gap: 2px;
 
 }
